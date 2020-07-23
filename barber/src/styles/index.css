@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ecf1f8;
+  color: #fff;
+  font-family: 'roboto', sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+.page-home{
+  width: 97vw;
+  height: 97vh;
+  margin: 10px auto;
+  background-color: #3e6f55;
+  border: 0;
+}
+
+/* #fafafa cor do formulário */
+/* #bfcac4 cor do label do formulário */
+
