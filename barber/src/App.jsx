@@ -2,7 +2,9 @@ import React from 'react';
 import "./styles/index.css"
 
 import Image from './components/image/image'
-import Address from './components/address/Address'
+import Info from './components/info/Info'
+import About from './components/about/About'
+
 //import Title from './components/title/Title'
 
 function App() {
@@ -10,7 +12,8 @@ function App() {
     <>
       <div className='page-home'>
         <Image />
-        <Address />
+        <Info />
+        <About /> 
       </div>
     </>
   );
