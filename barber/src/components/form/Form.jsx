@@ -4,7 +4,11 @@ export default function DivForm() {
     return (
         <>
             <div className='form'>
-                SDFSDFsafsdfsdf
+                <fieldset>
+                    <legend>FALE CONOSCO</legend>
+
+
+                </fieldset>
             </div>
         </>
     )
