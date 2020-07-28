@@ -1,0 +1,23 @@
+.infoServices {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.infoServices h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.infoServices p {
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.fisrtP {
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
