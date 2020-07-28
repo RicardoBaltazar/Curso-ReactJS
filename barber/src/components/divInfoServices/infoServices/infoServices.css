@@ -9,15 +9,18 @@
 
 .infoServices h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 15px;
 }
 
 .infoServices p {
     font-size: 12px;
     letter-spacing: 2px;
+    font-weight: 500;
 }
 
-.fisrtP {
+.infoServices .fisrtP{
     font-weight: bold;
     margin-top: 5px;
     margin-bottom: 3px;
+    font-size: 14px;
 }

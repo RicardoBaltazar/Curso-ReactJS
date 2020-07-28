@@ -8,7 +8,6 @@ export default function InfoServices(props) {
             <h3>{props.title}</h3>
             <p className='fisrtP'>{props.service}</p>
             <p>{props.infoService}</p>
-
         </div>
     )
 }

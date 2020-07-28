@@ -8,7 +8,7 @@ export default function About(){
     return (
         <div className='about'>
             <History />
-            <DivInfoServices/>
+            <DivInfoServices/> 
         </div>
     )
 }   
