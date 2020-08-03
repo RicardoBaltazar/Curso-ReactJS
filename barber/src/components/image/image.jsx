@@ -12,10 +12,10 @@ export default function Image() {
             <header>
                 <img src={img} alt="Imagem da Barbearia" className='img'/>
                 <div className="title">
-                    <p>Barbearia,</p>
-                    <p>Titulo</p>
-                    <p>E Titulo</p>
-                    <Button />
+                    <p>Respeito,</p>
+                    <p>Família</p>
+                    <p>E Tradição</p>
+                    <Button nameButton='AGENDAR'/>
                 </div>
             </header>
         </>
