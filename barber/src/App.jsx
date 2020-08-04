@@ -1,6 +1,8 @@
 import React from 'react';
 import "./index.css"
 
+import { BrowserRouter, Route, Link } from "react-router-dom";
+
 import Image from './components/image/image'
 import Info from './components/info/Info'
 import About from './components/about/About'
