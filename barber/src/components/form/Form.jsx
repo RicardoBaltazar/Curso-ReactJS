@@ -1,7 +1,7 @@
 import React from 'react'
 import './form.css'
 
-import Button from '../button/Button'
+import FormButton from '../form/buttonForm/FormButton'
 
 export default function DivForm() {
     return (
@@ -22,7 +22,7 @@ export default function DivForm() {
                     <label htmlFor="message">Mensagem</label>
                     <textarea name="message" id="" cols="30" rows="5"></textarea>
 
-                    <Button nameButton='ENVIAR' />
+                    <FormButton nameButton='ENVIAR' />
                 </fieldset>
             </div>
         </>

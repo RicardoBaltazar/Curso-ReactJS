@@ -1,5 +1,5 @@
 import React from 'react';
-import "./styles/index.css"
+import "./index.css"
 
 import Image from './components/image/image'
 import Info from './components/info/Info'

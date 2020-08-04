@@ -16,7 +16,7 @@ button{
 
 button:hover{
     opacity: 0.8;
-    background-color: #3e6f55;
+    background-color: #3e6f55; 
     color: #ffffff;
     transition: 200ms;
 }
