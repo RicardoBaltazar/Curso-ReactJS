@@ -1,5 +1,10 @@
 .divInfoServices {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
+hr {
+    width: 100%;
+    margin: 5.6rem 0;
+}

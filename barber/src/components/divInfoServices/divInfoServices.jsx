@@ -2,6 +2,7 @@ import React from 'react'
 import './divInfoServices.css'
 
 import InfoService from './infoServices/InfoServices'
+import Logo from '../logo/Logo'
 
 
 export default function DivInfoServices() {
@@ -14,6 +15,8 @@ export default function DivInfoServices() {
                 <InfoService className='titleHair' title={'CABELO'} service={'CORTE + BARBA COM RITUAL - R$ 130'} infoService={'Corte e Barba com Ritual de tratamento de pele, micro esfoliação e drenagem facial. Tolerância de 20min para o início do serviço.'} />
                 <InfoService service={'CORTE + BARBA TRADICIONAL - R$ 120'} infoService={'Corte e Barba com navalha e toalha quente. Tolerância de 20min para o início do serviço.'} />
                 <InfoService className='margin' service={'CORTE COM MÁQUINA (1 PENTE)'} infoService={'Corte com máquina e Barba com navalha e toalha quente. Tolerância de 20min para o início do serviço.'} />
+                <hr/>
+                <Logo />
             </div>
         </>
     )

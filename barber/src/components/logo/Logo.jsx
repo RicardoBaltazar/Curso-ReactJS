@@ -1,10 +1,11 @@
 import React from 'react'
+import './logo.css'
 
 const logo = require('../../assets/logo.png')
 
 export default function Logo() {
     return (
-        <div>
+        <div className='logo'>
             <img src={logo} alt="logotipo"/>
         </div>
     )
